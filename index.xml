@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portafolio de Ciencia de Datos on William Huaman</title>
+    <link>https://williamhuamanq.github.io/</link>
+    <description>Recent content in Portafolio de Ciencia de Datos on William Huaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://williamhuamanq.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca de mí</title>
+      <link>https://williamhuamanq.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamhuamanq.github.io/about/</guid>
+      <description>Soy Estudiante de la carrera de Ingeniería en Telecomunicaciones de la Universidad Nacional de San Agustin de Arequipa.
+Soy entusiasta con respecto a la Ciencia de Datos y Programación en lenguaje Python. Realizo mis proyectos en el Sistema Operativo Linux, con JupyterNotebook.
+Pienso que la ciencia de datos es muy importante, porque revela tendencias y genera información útil que las empresas puedan utilizar para tomar mejores decisiones, crear productos y servicios más innovadores</description>
+    </item>
+    
+    <item>
+      <title>Análisis de Datos English Premier League (EPL) 2020-2021</title>
+      <link>https://williamhuamanq.github.io/post/proyecto-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamhuamanq.github.io/post/proyecto-1/</guid>
+      <description>La Premier League, también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra. Comenzó a disputarse en la temporada 1992-93.
+El análisis se realiza de la ultima temporada 2020-2021 de la Premier League La Colección de datos utilizada de la temporada 2020-2021 de la Premier League fueron descargados desde: https://bit.ly/3aRnGVx
+El análisis de datos, se hace en JupyterNotebook, en lenguaje Python.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://williamhuamanq.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamhuamanq.github.io/contact/</guid>
+      <description> Plataforma URL Gmail: whuamanq@unsa.edu.pe GitHub: https://github.com/WilliamHuamanq Facebook: https://www.facebook.com/william.mauricioh1 </description>
+    </item>
+    
+  </channel>
+</rss>

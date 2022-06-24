@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proyectos on William Huaman</title>
+    <link>https://williamhuamanq.github.io/post/</link>
+    <description>Recent content in Proyectos on William Huaman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://williamhuamanq.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis de Datos English Premier League (EPL) 2020-2021</title>
+      <link>https://williamhuamanq.github.io/post/proyecto-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://williamhuamanq.github.io/post/proyecto-1/</guid>
+      <description>La Premier League, también conocida en Inglaterra como The Premiership, es la máxima categoría del sistema de ligas de fútbol de Inglaterra. Comenzó a disputarse en la temporada 1992-93.
+El análisis se realiza de la ultima temporada 2020-2021 de la Premier League La Colección de datos utilizada de la temporada 2020-2021 de la Premier League fueron descargados desde: https://bit.ly/3aRnGVx
+El análisis de datos, se hace en JupyterNotebook, en lenguaje Python.</description>
+    </item>
+    
+  </channel>
+</rss>
